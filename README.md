@@ -27,3 +27,6 @@ a or b might be [] (all languages except R, Shell). a or b might be nil or null 
 If a or b are nil (or null or None), the problem doesn't make sense so return false.
 
 If a or b are empty the result is evident by itself.
+
+
+下面是点赞最高的写法，点睛之笔是 == 号，原来可以这样...
